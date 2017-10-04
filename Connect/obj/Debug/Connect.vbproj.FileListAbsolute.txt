@@ -1,0 +1,12 @@
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.vbprojResolveAssemblyReference.cache
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.Form1.resources
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.Resources.resources
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.vbproj.GenerateResource.Cache
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.vbproj.CoreCompileInputs.cache
+C:\Users\odilon.silva\source\repos\Connect\Connect\bin\Debug\Connect.exe.config
+C:\Users\odilon.silva\source\repos\Connect\Connect\bin\Debug\Connect.exe
+C:\Users\odilon.silva\source\repos\Connect\Connect\bin\Debug\Connect.pdb
+C:\Users\odilon.silva\source\repos\Connect\Connect\bin\Debug\Connect.xml
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.exe
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.xml
+C:\Users\odilon.silva\source\repos\Connect\Connect\obj\Debug\Connect.pdb
